@@ -1,0 +1,82 @@
+.container {
+    /* display: grid; */
+    display: flex;
+    flex-wrap: wrap;
+    /* grid-template-columns: 400px 400px 400px ; */
+    padding: 40px;
+    justify-content: center;
+    
+    margin: auto;
+  }
+  img {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .custommodal {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+  }
+  
+  .custommodal img {
+    width: 100%;
+    height: 100%;
+    cursor:crosshair;
+    object-fit: contain;
+  }
+  
+  .custommodal-modal {
+    width: 450px;
+    height: 450px;
+    position: relative;
+    display: flex;
+    align-items: center;
+  
+  }
+  .arrow_btn{
+      color: #fff;
+      cursor: pointer;
+  }
+  .modal_close{
+      position: absolute;
+      top:0;
+      right: 0;
+      cursor: pointer;
+      color: #fff;
+  }
+  ::-webkit-scrollbar{
+      width: 15px;
+      
+      border-radius: 50%;
+  }
+  ::-webkit-scrollbar-thumb{
+      background-color:whitesmoke;
+      border-radius: 20px;
+  }
+  .rightbtn{
+      right: 430px;
+  }
+  .download{
+    position: absolute;
+    
+    z-index: 1000;
+    margin-left: 360px;
+    margin-top: 400px;
+  }
+  /* scrollto top */
+  #btn{
+    bottom: 20px;
+    right: 30px;
+    background: red;
+    border-radius: 45%;
+  }
+  #btn:hover{
+    background: blue;
+  }

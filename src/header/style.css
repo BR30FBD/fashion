@@ -1,0 +1,12 @@
+.header{
+    /* background-color: #333; */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: block;
+    z-index: 100;
+    transition: 1s;
+    /* scroll-behavior: smooth; */
+    animation: cubic-bezier(1, 0, 0, 1);
+    
+}

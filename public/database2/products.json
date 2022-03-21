@@ -1,0 +1,284 @@
+{
+    "products":[
+        {
+            "name": "Buttons tweed blazer",
+            "price": "40",
+            "review": "4",
+            "cateogry":"women",
+            
+            "id":"1",
+            "imgsrc": "assets/img/product/product-1.jpg"
+          },
+          {
+            "name": "Flowy striped skirt",
+            "price": "43",
+            "review": "4",
+            "cateogry":"men",
+            "id":"2",
+            "imgsrc": "assets/img/product/product-2.jpg"
+          },
+          {
+            "name": "Cotton T-Shirt",
+            "price": "45",
+            "review": "4",
+            "cateogry":"women",
+            "id":"3",
+    
+            "imgsrc": "assets/img/product/product-3.jpg"
+          },
+          {
+            "name": "Slim striped pocket shirt",
+            "price": "46",
+            "review": "4",
+            "cateogry":"men",
+            "id":"4",
+    
+            "imgsrc": "assets/img/product/product-4.jpg"
+          },
+          {
+            "name": "Fit micro corduroy shirt",
+            "price": "40",
+            "review": "4",
+            "cateogry":"men",
+            "id":"5",
+    
+            "imgsrc": "assets/img/product/product-5.jpg"
+          },
+          {
+            "name": "Tropical Kimono",
+            "price": "43",
+            "review": "4",
+            "cateogry":"women",
+            "id":"6",
+    
+            "imgsrc": "assets/img/product/product-6.jpg"
+          },
+          {
+            "name": "Contrasting sunglasses",
+            "price": "45",
+            "review": "4",
+            "cateogry":"women",
+            "id":"7",
+    
+            "imgsrc": "assets/img/product/product-7.jpg"
+          },
+          {
+            "name": "Water resistant backpack ",
+            "price": "46",
+            "review": "4",
+            "cateogry":"accessories",
+            "id":"8",
+    
+            "imgsrc": "assets/img/product/product-8.jpg"
+          },
+          {
+            "name": "Croc-effect bag",
+            "price": "66",
+            "review": "5",
+            "cateogry":"accessories",
+             "id":"9",
+            "imgsrc": "assets/img/shop/shop-2.jpg"
+          },
+          {
+            "name": "Dark wash Xavi jeans",
+            "price": "67",
+            "review": "4",
+            "cateogry":"men",
+            "id":"10",
+            
+    
+            "imgsrc": "assets/img/shop/shop-4.jpg"
+          },
+          {
+            "name": "Ankle-cuff sandals",
+            "price": "66",
+            "review": "4",
+            "cateogry":"accessories",
+             "id":"11",
+            "imgsrc": "assets/img/shop/shop-5.jpg"
+          },
+          {
+            "name": "Circular pendant earrings",
+            "price": "67",
+            "review": "4",
+            "cateogry":"accessories",
+             "id":"12",
+            "imgsrc": "assets/img/shop/shop-7.jpg"
+          },
+          {
+            "name": "Cotton T-Shirt",
+            "price": "67",
+            "review": "4",
+            "cateogry":"accessories",
+            "id":"13",
+            "imgsrc": "assets/img/shop/shop-8.jpg"
+          },
+          {
+            "name": "Water resistant zips backpack",
+            "price": "67",
+            "review": "5",
+            "cateogry":"accessories",
+             "id":"14",
+            "imgsrc": "assets/img/shop/shop-9.jpg"
+          },
+          {
+            "name": "Cotton T-Shirt",
+            "price": "69",
+            "review": "4",
+            "cateogry":"men",
+            "imgsrc": "assets/img/product/related/rp-3.jpg"
+           
+    
+           
+          },
+          {
+            "name": "Slim striped pocket shirt",
+            "price": "56",
+            "review": "4",
+            "cateogry":"men",
+            "imgsrc": "assets/img/product/related/rp-4.jpg"
+           
+          
+          },
+          {
+            "name": "Buttons tweed blazer",
+            "price": "40",
+            "review": "4",
+            "cateogry":"women",
+            
+            "id":"1",
+            "imgsrc": "assets/img/product/product-1.jpg"
+          },
+          {
+            "name": "Flowy striped skirt",
+            "price": "43",
+            "review": "4",
+            "cateogry":"men",
+            "id":"2",
+            "imgsrc": "assets/img/product/product-2.jpg"
+          },
+          {
+            "name": "Cotton T-Shirt",
+            "price": "45",
+            "review": "4",
+            "cateogry":"women",
+            "id":"3",
+    
+            "imgsrc": "assets/img/product/product-3.jpg"
+          },
+          {
+            "name": "Slim striped pocket shirt",
+            "price": "46",
+            "review": "4",
+            "cateogry":"men",
+            "id":"4",
+    
+            "imgsrc": "assets/img/product/product-4.jpg"
+          },
+          {
+            "name": "Fit micro corduroy shirt",
+            "price": "40",
+            "review": "4",
+            "cateogry":"men",
+            "id":"5",
+    
+            "imgsrc": "assets/img/product/product-5.jpg"
+          },
+          {
+            "name": "Tropical Kimono",
+            "price": "43",
+            "review": "4",
+            "cateogry":"women",
+            "id":"6",
+    
+            "imgsrc": "assets/img/product/product-6.jpg"
+          },
+          {
+            "name": "Contrasting sunglasses",
+            "price": "45",
+            "review": "4",
+            "cateogry":"women",
+            "id":"7",
+    
+            "imgsrc": "assets/img/product/product-7.jpg"
+          },
+          {
+            "name": "Water resistant backpack ",
+            "price": "46",
+            "review": "4",
+            "cateogry":"accessories",
+            "id":"8",
+    
+            "imgsrc": "assets/img/product/product-8.jpg"
+          },
+          {
+            "name": "Croc-effect bag",
+            "price": "66",
+            "review": "5",
+            "cateogry":"accessories",
+             "id":"9",
+            "imgsrc": "assets/img/shop/shop-2.jpg"
+          },
+          {
+            "name": "Dark wash Xavi jeans",
+            "price": "67",
+            "review": "4",
+            "cateogry":"men",
+            "id":"10",
+            
+    
+            "imgsrc": "assets/img/shop/shop-4.jpg"
+          },
+          {
+            "name": "Ankle-cuff sandals",
+            "price": "66",
+            "review": "4",
+            "cateogry":"accessories",
+             "id":"11",
+            "imgsrc": "assets/img/shop/shop-5.jpg"
+          },
+          {
+            "name": "Circular pendant earrings",
+            "price": "67",
+            "review": "4",
+            "cateogry":"accessories",
+             "id":"12",
+            "imgsrc": "assets/img/shop/shop-7.jpg"
+          },
+          {
+            "name": "Cotton T-Shirt",
+            "price": "67",
+            "review": "4",
+            "cateogry":"accessories",
+            "id":"13",
+            "imgsrc": "assets/img/shop/shop-8.jpg"
+          },
+          {
+            "name": "Water resistant zips backpack",
+            "price": "67",
+            "review": "5",
+            "cateogry":"accessories",
+             "id":"14",
+            "imgsrc": "assets/img/shop/shop-9.jpg"
+          },
+          {
+            "name": "Cotton T-Shirt",
+            "price": "69",
+            "review": "4",
+            "cateogry":"men",
+            "imgsrc": "assets/img/product/related/rp-3.jpg"
+           
+    
+           
+          },
+          {
+            "name": "Slim striped pocket shirt",
+            "price": "56",
+            "review": "4",
+            "cateogry":"men",
+            "imgsrc": "assets/img/product/related/rp-4.jpg"
+           
+          
+          }
+    ]
+}

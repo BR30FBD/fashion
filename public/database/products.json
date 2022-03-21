@@ -1,0 +1,238 @@
+{
+    "home": [
+      {
+        "name": "Buttons tweed blazer",
+        "price": "40",
+        "review": "4",
+        "cateogry":"men",
+        "id":"1",
+        "imgsrc": "assets/img/product/product-1.jpg"
+      },
+      {
+        "name": "Flowy striped skirt",
+        "price": "43",
+        "review": "4",
+        "cateogry":"men",
+        "imgsrc": "assets/img/product/product-2.jpg"
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": "45",
+        "review": "4",
+        "cateogry":"men",
+
+        "imgsrc": "assets/img/product/product-3.jpg"
+      },
+      {
+        "name": "Slim striped pocket shirt",
+        "price": "46",
+        "review": "4",
+        "cateogry":"men",
+
+        "imgsrc": "assets/img/product/product-4.jpg"
+      },
+      {
+        "name": "Fit micro corduroy shirt",
+        "price": "40",
+        "review": "4",
+        "cateogry":"women",
+
+        "imgsrc": "assets/img/product/product-5.jpg"
+      },
+      {
+        "name": "Tropical Kimono",
+        "price": "43",
+        "review": "4",
+        "cateogry":"women",
+
+        "imgsrc": "assets/img/product/product-6.jpg"
+      },
+      {
+        "name": "Contrasting sunglasses",
+        "price": "45",
+        "review": "4",
+        "cateogry":"accessories",
+
+        "imgsrc": "assets/img/product/product-7.jpg"
+      },
+      {
+        "name": "Water resistant backpack ",
+        "price": "46",
+        "review": "4",
+        "cateogry":"accessories",
+
+        "imgsrc": "assets/img/product/product-8.jpg"
+      }
+    ],
+    "shop": [
+      {
+        "name": "Flowy striped skirt",
+        "price": "56",
+        "review": "3",
+        "imgsrc": "assets/img/shop/shop-1.jpg"
+      },
+      {
+        "name": "Flowy striped skirt",
+        "price": "56",
+        "review": "3",
+        "imgsrc": "assets/img/shop/shop-3.jpg"
+      },
+      {
+        "name": "Croc-effect bag",
+        "price": "66",
+        "review": "5",
+        "imgsrc": "assets/img/shop/shop-2.jpg"
+      },
+      {
+        "name": "Dark wash Xavi jeans",
+        "price": "67",
+        "review": "4",
+
+        "imgsrc": "assets/img/shop/shop-4.jpg"
+      },
+      {
+        "name": "Ankle-cuff sandals",
+        "price": "66",
+        "review": "4",
+        "imgsrc": "assets/img/shop/shop-5.jpg"
+      },
+      {
+        "name": "Contrasting sunglasses",
+        "price": "67",
+        "review": "5",
+        "imgsrc": "assets/img/shop/shop-6.jpg"
+      },
+      {
+        "name": "Circular pendant earrings",
+        "price": "67",
+        "review": "4",
+        "imgsrc": "assets/img/shop/shop-7.jpg"
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": "67",
+        "review": "4",
+        "imgsrc": "assets/img/shop/shop-8.jpg"
+      },
+      {
+        "name": "Water resistant zips backpack",
+        "price": "67",
+        "review": "5",
+        "imgsrc": "assets/img/shop/shop-9.jpg"
+      }
+    ],
+    "productdetail": [
+      {
+        "name": "Buttons tweed blazer",
+        "price": "59",
+        "review": "4",
+        "imgsrc": "assets/img/product/related/rp-1.jpg",
+        "heading":"ESSENTIAL STRUCTURED BLAZER",
+        "subheading":"Brand: SKMEIMore Men Watches from SKMEI",
+        "regular-price":"83.0",
+        "selling-price":"75.0",
+        "discription":""
+
+       
+      },
+      {
+        "name": "Flowy striped skirt",
+        "price": "49",
+        "review": "4",
+        "imgsrc": "assets/img/product/related/rp-2.jpg",
+        "heading":"ESSENTIAL STRUCTURED BLAZER",
+        "subheading":"Brand: SKMEIMore Men Watches from SKMEI",
+        "regular-price":"83.0",
+        "selling-price":"75.0",
+        "discription":""
+
+       
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": "69",
+        "review": "4",
+        "imgsrc": "assets/img/product/related/rp-3.jpg",
+        "heading":"ESSENTIAL STRUCTURED BLAZER",
+        "subheading":"Brand: SKMEIMore Men Watches from SKMEI",
+        "regular-price":"83.0",
+        "selling-price":"75.0",
+        "discription":""
+
+       
+      },
+      {
+        "name": "Slim striped pocket shirt",
+        "price": "56",
+        "review": "4",
+        "imgsrc": "assets/img/product/related/rp-4.jpg",
+        "heading":"ESSENTIAL STRUCTURED BLAZER",
+        "subheading":"Brand: SKMEIMore Men Watches from SKMEI",
+        "regular-price":"83.0",
+        "selling-price":"75.0",
+         "discription":""
+      
+      }
+    ],
+    "instagram": [
+      { "imgsrc": "assets/img/instagram/insta-1.jpg" },
+      { "imgsrc": "assets/img/instagram/insta-2.jpg" },
+      { "imgsrc": "assets/img/instagram/insta-3.jpg" },
+      { "imgsrc": "assets/img/instagram/insta-4.jpg" },
+      { "imgsrc": "assets/img/instagram/insta-5.jpg" },
+      { "imgsrc": "assets/img/instagram/insta-6.jpg" }
+    ],
+  "women": [
+      {
+        "name": "Circular pendant earrings",
+        "price": "67",
+        "review": "4",
+        "imgsrc": "assets/img/shop/shop-7.jpg"
+      },
+      {
+        "name": "Buttons tweed blazer",
+        "price": "59",
+        "review": "4",
+        "imgsrc": "assets/img/product/related/rp-1.jpg"
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": "69",
+        "review": "4",
+        "imgsrc": "assets/img/product/related/rp-3.jpg"
+      },
+      {
+        "name": "Tropical Kimono",
+        "price": "43",
+        "review": "4",
+        "imgsrc": "assets/img/product/product-6.jpg"
+      },
+      
+      {
+        "name": "Flowy striped skirt",
+        "price": "56",
+        "review": "3",
+        "imgsrc": "assets/img/shop/shop-1.jpg"
+      },
+      {
+        "name": "Ankle-cuff sandals",
+        "price": "66",
+        "review": "4",
+        "imgsrc": "assets/img/shop/shop-5.jpg"
+      },
+        {
+        "name": "Cotton T-Shirt",
+        "price": "67",
+        "review": "4",
+        "imgsrc": "assets/img/shop/shop-8.jpg"
+      },
+      {
+        "name": "Water resistant zips backpack",
+        "price": "67",
+        "review": "5",
+        "imgsrc": "assets/img/shop/shop-9.jpg"
+      }
+    ]
+      
+    
+  }
