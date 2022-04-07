@@ -3,13 +3,13 @@ import React from 'react'
 const Login = () => {
     return (
         <>
-        <div class="d-lg-flex half" style={{marginTop:"86px"}}>
+        <div class="d-lg-flex half" >
     <div class="bg order-1 order-md-2" >
         <img src="assets/img/blog/shoping.jpg" alt="data is not found" style={{width:"850px",height:"100%"}}/>
     </div>
     <div class="contents order-2 order-md-1">
 
-      <div class="container">
+      <div class="container " style={{background:"white"}}>
         <div class="row align-items-center justify-content-center">
           <div class="col-md-7">
             <div class="mb-4">
@@ -36,18 +36,18 @@ const Login = () => {
                 <span class="ml-auto"><a href="/#" class="forgot-pass">Forgot Password</a></span> 
               </div>
 
-              <input type="submit" value="Log In" class="btn btn-block btn-primary"/>
+              <input type="submit" value="Log In" class="btn btn-block btn-primary" />
 
               <span class="d-block text-center my-4 text-muted">&mdash; or &mdash;</span>
               
               <div class="social-login">
-                <a href="/#" class="facebook btn d-flex justify-content-center align-items-center bg-primary" style={{marginBottom:"10px"}}>
+                <a href="/#" class="facebook btn d-flex justify-content-center align-items-center bg-primary" style={{marginBottom:"10px",color:"white"}}>
                   <span class="icon-facebook mr-3"></span> Login with Facebook
                 </a>
-                <a href="/#" class="twitter btn d-flex justify-content-center align-items-center bg-info" style={{marginBottom:"10px"}}>
+                <a href="/#" class="twitter btn d-flex justify-content-center align-items-center bg-info" style={{marginBottom:"10px",color:"white"}}>
                   <span class="icon-twitter mr-3"></span> Login with  Twitter
                 </a>
-                <a href="/#" class="google btn d-flex justify-content-center align-items-center bg-danger " style={{marginBottom:"10px"}}>
+                <a href="/#" class="google btn d-flex justify-content-center align-items-center bg-danger " style={{marginBottom:"10px",color:"white"}}>
                   <span class="icon-google mr-3"></span> Login with  Google
                 </a>
               </div>

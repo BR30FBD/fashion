@@ -6,6 +6,7 @@ import Mobileheader from "../mobileheader";
 const Header = () => {
   const [menu, setmenu] = useState([]);
   const [stickey, setStickey] = useState(0);
+  const [nav,setNav]=useState(true)
   let prevousScroll = window.pageYOffset;
   document.addEventListener("scroll", () => {
     let currentScroll = window.pageYOffset;
@@ -16,7 +17,9 @@ const Header = () => {
     }
     prevousScroll = currentScroll;
   });
-
+ const handlenavbar=()=>{
+   setNav(!nav);
+ }
   return (
     <>
      
@@ -36,6 +39,9 @@ const Header = () => {
         </div>
         {<Mobileheader menu={menu} />}
       </div>
+      {
+          nav &&
+
       <header className="header" style={{ marginTop: `${stickey}px` }}>
         <div className="container-fluid">
           <div className="row">
@@ -90,7 +96,7 @@ const Header = () => {
             <div className="col-lg-3">
               <div className="header__right">
                 <div className="header__right__auth">
-                  <NavLink to="/login">Login/Register</NavLink>
+                  <NavLink to="/login" onClick={handlenavbar}>Login/Register</NavLink>
                 </div>
                 <ul className="header__right__widget">
                   <li>
@@ -132,6 +138,7 @@ const Header = () => {
           </div>
         </div>
       </header>
+}
 
     </>
   );

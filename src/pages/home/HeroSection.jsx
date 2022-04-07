@@ -4,7 +4,7 @@ const HeroSection = () => {
   return (
     <>
       {/* Categories Section Begin */}
-      <section className="categories">
+      <section className="categories" id="hero">
         <div className="container-fluid">
           <div className="row">
             <div className="col-lg-6 p-0">

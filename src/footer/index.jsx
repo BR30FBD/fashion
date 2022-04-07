@@ -107,7 +107,6 @@ const Footer = () => {
           </div>
           <div className="row">
             <div className="col-lg-12">
-              {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
               <div className="footer__copyright__text">
                 <p>
                   Copyright © All rights reserved | This template is made with{" "}
@@ -117,13 +116,10 @@ const Footer = () => {
                   </a>
                 </p>
               </div>
-              {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
             </div>
           </div>
         </div>
       </footer>
-      {/* Footer Section End */}
-      {/* Search Begin */}
       <div className="search-model">
         <div className="h-100 d-flex align-items-center justify-content-center">
           <div className="search-close-switch">+</div>
@@ -136,7 +132,6 @@ const Footer = () => {
           </form>
         </div>
       </div>
-      {/* Search End */}
     </>
   );
 };

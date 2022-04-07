@@ -11,7 +11,7 @@ const Datanot = () => {
 			</div>
 			<h2>404 - Page not found</h2>
 			<p>The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
-			<NavLink to='/' style={{backgroundColor:"red"}}>Go To Homepage</NavLink>
+			<NavLink to='/' style={{backgroundColor:"red"}} onclick='scroll("hero");'>Go To Homepage</NavLink>
 		</div>
 	</div>
       </>
