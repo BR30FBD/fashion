@@ -2,6 +2,7 @@ import React from "react";
 import Instagram from "../../common/instagram";
 import Slide from "./slide";
 import Abutproduct from "./abutproduct";
+import { NavLink } from "react-router-dom";
 
 const Product = (props) => {
   return (
@@ -11,10 +12,10 @@ const Product = (props) => {
           <div className="row">
             <div className="col-lg-12">
               <div className="breadcrumb__links">
-                <a href="./index.html">
+                <NavLink to='/'>
                   <i className="fa fa-home"></i> Home
-                </a>
-                <a href="/#">Women`s </a>
+                </NavLink>
+                <a href="/">Women`s </a>
                 <span>Essential structured blazer</span>
               </div>
             </div>

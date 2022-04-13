@@ -1,5 +1,6 @@
 import React from "react";
 import Instagram from "../../common/instagram";
+import { NavLink } from "react-router-dom";
 
 const Shopcart = (props) => {
   return (
@@ -9,9 +10,9 @@ const Shopcart = (props) => {
           <div className="row">
             <div className="col-lg-12">
               <div className="breadcrumb__links">
-                <a href="./index.html">
+                <NavLink to='/'>
                   <i className="fa fa-home"></i> Home
-                </a>
+                </NavLink>
                 <span>Shopping cart</span>
               </div>
             </div>

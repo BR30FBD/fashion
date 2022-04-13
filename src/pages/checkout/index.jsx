@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 import Instagram from '../../common/instagram'
 
 const Checkout = (props) => {
@@ -9,7 +10,7 @@ const Checkout = (props) => {
             <div className="row">
                 <div className="col-lg-12">
                     <div className="breadcrumb__links">
-                        <a href="./index.html"><i className="fa fa-home"></i> Home</a>
+                        <NavLink to='/'><i className="fa fa-home"></i> Home</NavLink>
                         <span>Shopping cart</span>
                     </div>
                 </div>
